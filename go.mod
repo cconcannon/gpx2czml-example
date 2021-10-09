@@ -1,0 +1,9 @@
+module github.com/cconcannon/gpx2czml-example
+
+go 1.16
+
+require (
+	github.com/cconcannon/czml v0.0.8
+	github.com/cconcannon/gpx v0.0.3
+	github.com/cconcannon/gpx2czml v0.0.2
+)

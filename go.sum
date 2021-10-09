@@ -1,0 +1,6 @@
+github.com/cconcannon/czml v0.0.8 h1:QLUoquL0Tf97dQwIXj54cD7pdnIx94zxU5eIybVgoXE=
+github.com/cconcannon/czml v0.0.8/go.mod h1:EJHOXZyVD1CWZI20YYD5Dkf8oJLWYiGMN8oI/2kynlQ=
+github.com/cconcannon/gpx v0.0.3 h1:s/AejYHSAJjQ7ElZYSB9aB1LwnrxxdJWC2DBmAEqULg=
+github.com/cconcannon/gpx v0.0.3/go.mod h1:PQUCMlW6uSB0CgxOqnRjNAgP9f2m9QgXmqF4pYw2XfM=
+github.com/cconcannon/gpx2czml v0.0.2 h1:dyjtuLI2bj+ct1mccst4GU/uqKKttYUWG+ru/T+kzpY=
+github.com/cconcannon/gpx2czml v0.0.2/go.mod h1:JbuQicP35i5Eqkme6sYlszwAlk9OKpECi57vwb7EX+0=
